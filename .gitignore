@@ -7,6 +7,16 @@
 *.o
 *.obj
 
+# IDE files
+.vs/
+.vscode/settings.json
+*.user
+*.suo
+*.sln.docstates
+.idea/
+*.swp
+*.swo
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -39,3 +49,19 @@
 
 # debug information files
 *.dwo
+
+# Build directories
+build/
+out/
+[Bb]uilds/
+[Bb]in/
+[Oo]bj/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JUCE specific
+JuceLibraryCode/
+*.jucer
