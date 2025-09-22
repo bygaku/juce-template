@@ -8,7 +8,7 @@ A minimal JUCE plug-in template with CMake.
 git clone --recurse-submodules https://github.com/bygaku/juce-template.git
 
 # move to the directory
-cd ./juce_template
+cd ./juce-template
 
 # execution setup.ps1
 .\bin\setup.ps1 -ProjectName "SuperDelay" -CompanyName "My Audio Labs"
