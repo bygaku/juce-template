@@ -43,3 +43,5 @@
 # directory build files
 [Bb]uild/
 [Bb]uilds/
+.vscode/
+.idea/
